@@ -11,7 +11,7 @@ from django.contrib import messages
 from django.views.generic import DetailView, ListView, TemplateView
 
 
-
+ddd
 
 # accounts/urls.py
 
